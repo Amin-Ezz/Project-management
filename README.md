@@ -115,13 +115,13 @@ Follow the steps below to run Northwind locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/northwind.git
+git clone https://github.com/your-username/Project-management.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd northwind
+cd Project-management
 ```
 
 ---
@@ -349,24 +349,6 @@ Potential future improvements include:
 * Mobile-friendly improvements
 * Dark mode
 * Advanced search and filtering
-
----
-
-## 📷 Screenshots
-
-Add screenshots of the main application here.
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Project Details
-
-![Project Details](screenshots/project-details.png)
-
-### Task Management
-
-![Task Management](screenshots/tasks.png)
 
 ---
 
