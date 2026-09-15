@@ -337,18 +337,13 @@ Additional tests can be added for:
 Potential future improvements include:
 
 * Real-time notifications
-* Task comments
 * File attachments
 * Activity logs
-* Advanced project analytics
 * Kanban board
-* Calendar view
 * Email notifications
 * Role-based permissions
 * REST API
 * Mobile-friendly improvements
-* Dark mode
-* Advanced search and filtering
 
 ---
 
